@@ -13,6 +13,7 @@
 		2777A9DE1F3796C1000B3C20 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2777A9DC1F3796C1000B3C20 /* Main.storyboard */; };
 		2777A9E01F3796C1000B3C20 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2777A9DF1F3796C1000B3C20 /* Assets.xcassets */; };
 		2777A9E31F3796C1000B3C20 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2777A9E11F3796C1000B3C20 /* LaunchScreen.storyboard */; };
+		2777A9EB1F379723000B3C20 /* MyTabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2777A9EA1F379723000B3C20 /* MyTabBarItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2777A9DF1F3796C1000B3C20 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2777A9E21F3796C1000B3C20 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2777A9E41F3796C1000B3C20 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2777A9EA1F379723000B3C20 /* MyTabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabBarItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2777A9D81F3796C1000B3C20 /* FirstViewController.swift */,
 				2777A9DA1F3796C1000B3C20 /* SecondViewController.swift */,
 				2777A9DC1F3796C1000B3C20 /* Main.storyboard */,
+				2777A9EA1F379723000B3C20 /* MyTabBarItem.swift */,
 				2777A9DF1F3796C1000B3C20 /* Assets.xcassets */,
 				2777A9E11F3796C1000B3C20 /* LaunchScreen.storyboard */,
 				2777A9E41F3796C1000B3C20 /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				2777A9DB1F3796C1000B3C20 /* SecondViewController.swift in Sources */,
 				2777A9D71F3796C1000B3C20 /* AppDelegate.swift in Sources */,
+				2777A9EB1F379723000B3C20 /* MyTabBarItem.swift in Sources */,
 				2777A9D91F3796C1000B3C20 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
